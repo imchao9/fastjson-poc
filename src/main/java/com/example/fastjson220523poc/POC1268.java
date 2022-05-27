@@ -8,6 +8,7 @@ import java.io.IOException;
 
 /**
  * fastjson 1.2.68 autocloseable commons-io poc 生成工具类
+ * https://su18.org/post/fastjson-1.2.68/
  *
  * @author su18
  */

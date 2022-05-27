@@ -2,6 +2,9 @@ package com.example.fastjson220523poc;
 
 import com.alibaba.fastjson.JSON;
 
+/**
+ * https://paper.seebug.org/1192/#ver1268
+ */
 public class JNDIV124 {
     public static void main(String[] args) {
         System.setProperty("com.sun.jndi.ldap.object.trustURLCodebase","true");
